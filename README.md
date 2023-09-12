@@ -12,7 +12,7 @@
   <li><b>Digital Hana路 금융 서비스 개발 1기<sub>(2023.04 ~ )</sub></b></li>
   <br>
   <li>alpaco 주변 맛집 추천 웹사이트 <a href="https://github.com/buyMeFood-Project/buyMeFood">BuyMeFood</a> FE <sub>(2023.05 ~ 2023.06)</sub></li>
-  <li>채용 관리 ERP 시스템 <a href="https://github.com/HanaHR/HanaHR">CardTracker</a> FE • BE <sub>(2023.06)</sub></li>
+  <li>채용 관리 ERP 시스템 <a href="https://github.com/HanaHR/HanaHR">HanaHR/a> FE • BE <sub>(2023.06)</sub></li>
   <li>알파세대를 위한 경제 교육 웹 어플리케이션 <a href="https://github.com/MoneyPlay-DigitalHanaro/front-end">I:Eco</a> FE • BE <sub>(2023.07 ~ 2023.08)</sub></li>
 </div>
   <h2></h2>
@@ -25,25 +25,34 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 <br>
 
-#### 💻FE
+#### 🌐FE
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-	<br>
-	<img src="https://img.shields.io/badge/ESlint-4B32C3?style=flat&logo=eslint&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/ESlint-4B32C3?style=flat&logo=eslint&logoColor=white">
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white">
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
 <br>
 
+#### 💻BE
+<img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+<img src="https://img.shields.io/badge/Servlet-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/>
+
 #### 🧰Tools
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-eaeaea.svg?style=flat&logo=Notion&logoColor=white" />
 
