@@ -12,7 +12,7 @@
   <li><b>Digital Hana路 금융 서비스 개발 1기<sub>(2023.04 ~ )</sub></b></li>
   <br>
   <li>alpaco 주변 맛집 추천 웹사이트 <a href="https://github.com/buyMeFood-Project/buyMeFood">BuyMeFood</a> FE <sub>(2023.05 ~ 2023.06)</sub></li>
-  <li>채용 관리 ERP 시스템 <a href="https://github.com/HanaHR/HanaHR">HanaHR/a> FE • BE <sub>(2023.06)</sub></li>
+  <li>채용 관리 ERP 시스템 <a href="https://github.com/HanaHR/HanaHR">HanaHR</a> FE • BE <sub>(2023.06)</sub></li>
   <li>알파세대를 위한 경제 교육 웹 어플리케이션 <a href="https://github.com/MoneyPlay-DigitalHanaro/front-end">I:Eco</a> FE • BE <sub>(2023.07 ~ 2023.08)</sub></li>
 </div>
   <h2></h2>
